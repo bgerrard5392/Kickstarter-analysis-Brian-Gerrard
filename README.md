@@ -1,7 +1,7 @@
-# An Analysis of Kickstarter Campaigns
+### An Analysis of Kickstarter Campaigns
 Brian Gerrard's analysis on Kickstarter data 
 ---
-Parent Category Outcomes
+#Parent Category Outcomes
 ![Parent Category Outcomes](https://user-images.githubusercontent.com/75700317/107303547-3c340400-6a4d-11eb-9e87-0ab1e3af179c.png)
 
 ---
