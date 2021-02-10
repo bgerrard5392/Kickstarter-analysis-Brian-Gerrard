@@ -41,5 +41,5 @@ This data set included several Kickstarter projects whose campaigns were still l
 - What are some other possible tables and/or graphs that we could create?
 
 ## Data Dictionary
-This is a table of the fields and key terms I used to conduct my analyses. 
+This is a table of the fields and key terms I used to conduct my analysis. 
 ![Data Dictionary](https://user-images.githubusercontent.com/75700317/107574818-1b8abc00-6bbd-11eb-9a8f-89f50208ad8a.JPG)
