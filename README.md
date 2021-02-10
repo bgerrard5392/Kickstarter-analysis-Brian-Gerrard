@@ -29,9 +29,9 @@ There were 72 total plays in the $10,000-$14,000 goal range, 39 of the 72 were s
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
- Kickstarters launched during the middle months (May, June, July) are more successful than those launched any other time in the year.
-
+   - Kickstarters launched during the middle months (May, June, July) are more successful than those launched any other time in the year.
+   - This is where I'm putting my second conclusion.....
+   
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
