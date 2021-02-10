@@ -41,5 +41,15 @@ This data set included several Kickstarter projects whose campaigns were still l
 - What are some other possible tables and/or graphs that we could create?
 
 ## Data Dictionary
+The data is collected from Kickstarter, a platform where people can post projects and publicly raise money through crowdfunding. The data consists of 4,114 different Kickstarter campaigns across 21 countries the world. For this project I’ll be focusing on the below data points:
+
+•	Goal – how much money a campaign needs for the project to succeed 
+
+•	Pledged – the amount of money a campaign actually earns
+
+•	Outcomes – did the campaign meet their goal (Successful, Live, Failed, Cancelled)
+
+•	Country – the country in which the campaign started 
+
 This is a table of the fields and key terms I used to conduct my analysis. 
 ![Data Dictionary](https://user-images.githubusercontent.com/75700317/107574818-1b8abc00-6bbd-11eb-9a8f-89f50208ad8a.JPG)
