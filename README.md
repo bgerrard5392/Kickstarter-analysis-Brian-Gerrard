@@ -35,8 +35,11 @@ There were 72 total plays in the $10,000-$14,000 goal range, 39 of the 72 were s
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
+
 This data set included several Kickstarter projects whose campaigns were still live during my analysis. Since I am unable to determine if a live campaign is a success or failure this poses a limitation within the dataset. 
 
 - What are some other possible tables and/or graphs that we could create?
 
+## Data Dictionary
+This is a table of the fields and key terms I used to conduct my analyses. 
 ![Data Dictionary](https://user-images.githubusercontent.com/75700317/107574818-1b8abc00-6bbd-11eb-9a8f-89f50208ad8a.JPG)
