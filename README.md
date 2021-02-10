@@ -19,6 +19,7 @@ Theater campaigns launched in the middle of the year (May, June, and July timefr
 
 Though there are more campaigns launched during those months, the success rate of that 3 month timeframe (successful campaigns/total campaigns) is only a few points higher than the average success rate per month. For example: 166 campaigns were launched in May and 111 of those were successful. If you look just at successes May has the most by a large amount, but if you look at the success rate (successful campaigns/total campaigns) for May, that is 67% which is only 6% higher than the yearly average (see below).
 
+![Successful_Outcome_Rate](https://user-images.githubusercontent.com/75700317/107580467-986d6400-6bc4-11eb-963b-d03e25de5c83.JPG)
 
  
 ### Analysis of Outcomes Based on Goals
