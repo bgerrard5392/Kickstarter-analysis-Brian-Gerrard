@@ -44,6 +44,8 @@ There were 72 total plays in the $10,000-$14,000 goal range, 39 of the 72 were s
 This data set included several Kickstarter projects whose campaigns were still live during my analysis. Since I am unable to determine if a live campaign is a success or failure this poses a limitation within the dataset. 
 
 - What are some other possible tables and/or graphs that we could create?
+  - Success rate based on Staff Picks - Do staff picks have any affect on whether a campaign is successsful or not?
+  - Do xxxxxxxxxxxxxxxxxxxxxx
 
 ## Data Dictionary
 This data was publically collected from Kickstarter, a platform where people can post projects and publicly raise money through crowdfunding. The dataset consists of 4,114 different Kickstarter campaigns across 21 countries the world. For my analysis I focused on the below data points:
