@@ -35,7 +35,7 @@ There were 72 total plays in the $10,000-$14,000 goal range, 39 of the 72 were s
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
    - It is safe to say that Kickstarters that launch during the middle months of the year (May, June, July) are more successful than those launched any other time in the year.
-   - This is where I'm putting my second conclusion.....
+   - xxxxxxxxxxxxxxxxxxxxxxxxxx
    
 - What can you conclude about the Outcomes based on Goals?
   - There is approximatelty a 54% chance that Louise will successfully hit her goal of $12,000 based on the $10,000-$14,999 goal range.
