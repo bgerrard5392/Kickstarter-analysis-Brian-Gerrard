@@ -37,8 +37,8 @@ The first challenge I ran into during my analysis was converting the “launched
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-   - It is safe to say that Kickstarters that launch during the middle months of the year (May, June, July) are more successful than those launched any other time in the year.
-   - xxxxxxxxxxxxxxxxxxxxxxxxxx
+   - It is safe to say that Kickstarters for Plays that launch during the middle months of the year (May, June, July) are more successful than those launched any other time in the year.
+   - September is the worst month to launch a Kickstarter campaign for Plays with the highest failure rate of 47% (failed outcomes/total outcomes).
    
 - What can you conclude about the Outcomes based on Goals?
   - There is approximatelty a 54% chance that Louise will successfully hit her goal of $12,000 based on the $10,000-$14,999 goal range
