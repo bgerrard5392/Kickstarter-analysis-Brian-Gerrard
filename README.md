@@ -11,7 +11,6 @@ This analysis was performed on several thousand crowdfunding projects with the g
 
 
 ## Analysis and Challenges
-The first challenge I ran into during my analysis was converting the “launched_at” and “deadline” data to a date format. By converting this data to a date format this allowed me to look at campaign outcomes over time and figure out when the best time during the year is to run a campaign for Louise. 
 
 ### Analysis of Outcomes Based on Launch Date
 Theater campaigns launched in the middle of the year (May, June, and July timeframe) are more successful than campaigns launched throughout the rest of the year. 
@@ -31,6 +30,7 @@ There were 72 total plays in the $10,000-$14,000 goal range, 39 of the 72 were s
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/75700317/107574773-0dd53680-6bbd-11eb-85cb-7667ddb14567.png)
 
 ### Challenges and Difficulties Encountered
+The first challenge I ran into during my analysis was converting the “launched_at” and “deadline” data to a date format. By converting this data to a date format this allowed me to look at campaign outcomes over time and figure out when the best time during the year is to run a campaign for Louise. 
 
 ## Results
 
