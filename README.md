@@ -40,12 +40,12 @@ There were 72 total plays in the $10,000-$14,000 goal range, 39 of the 72 were s
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
-
-This data set included several Kickstarter projects whose campaigns were still live during my analysis. Since I am unable to determine if a live campaign is a success or failure this poses a limitation within the dataset. 
+  - This data set included several Kickstarter projects whose campaigns were still live during my analysis. Since I am unable to determine if a live campaign is a success or failure this poses a limitation within the dataset. 
+  - Some projects have multiple campaign launches which poses a limitation within the data set because it skews the outcome of a given category. For example: The play "Beirut, Lady of Lebanon" is a project that launched a campaign in 2016 that failed by only pledging $1,225 of their $30,000 goal. This project launched a second campaign in 2017 and was successful (pledging $4,250 with a goal of $4,000). 
 
 - What are some other possible tables and/or graphs that we could create?
   - Success rate based on Staff Picks - Do staff picks have any affect on whether a campaign is successsful or not?
-  - Do xxxxxxxxxxxxxxxxxxxxxx
+  - Campaign relaunch success rate - There were some projects that launched more than one campaign. Do failed or cancelled have a better chance of succeeding if they launch multiple campaigns?
 
 ## Data Dictionary
 This data was publically collected from Kickstarter, a platform where people can post projects and publicly raise money through crowdfunding. The dataset consists of 4,114 different Kickstarter campaigns across 21 countries the world. For my analysis I focused on the below data points:
