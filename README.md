@@ -29,6 +29,8 @@ There were 72 total plays in the $10,000-$14,000 goal range, 39 of the 72 were s
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/75700317/107574773-0dd53680-6bbd-11eb-85cb-7667ddb14567.png)
 
+To take this a step further, when looking at the success to failure ratio per outcome group, it is interesting to point out that the first two groups (Less than 1000, 1000 to 4999) are significantly higher than the other groups. That said, if you are looking to launch a Kickstarter campaign for a play, it’s best to have a goal no greater than $5,000. 
+
 ### Challenges and Difficulties Encountered
 The first challenge I ran into during my analysis was converting the “launched_at” and “deadline” data to a date format. By converting this data to a date format this allowed me to look at campaign outcomes over time and figure out when the best time during the year is to run a campaign for Louise. 
 
