@@ -38,7 +38,8 @@ There were 72 total plays in the $10,000-$14,000 goal range, 39 of the 72 were s
    - This is where I'm putting my second conclusion.....
    
 - What can you conclude about the Outcomes based on Goals?
-
+  - There is approximatelty a 54% chance that Louise will successfully hit her goal of $12,000 based on the $10,000-$14,999 goal range.
+  
 - What are some limitations of this dataset?
   - This data set included several Kickstarter projects whose campaigns were still live during my analysis. Since I am unable to determine if a live campaign is a success or failure this poses a limitation within the dataset. 
   - Some projects have multiple campaign launches which poses a limitation within the data set because it skews the outcome of a given category. For example: The play "Beirut, Lady of Lebanon" is a project that launched a campaign in 2016 that failed by only pledging $1,225 of their $30,000 goal. This project launched a second campaign in 2017 and was successful (pledging $4,250 with a goal of $4,000). 
