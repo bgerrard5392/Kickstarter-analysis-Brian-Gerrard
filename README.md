@@ -41,7 +41,7 @@ The first challenge I ran into during my analysis was converting the “launched
    - xxxxxxxxxxxxxxxxxxxxxxxxxx
    
 - What can you conclude about the Outcomes based on Goals?
-  - There is approximatelty a 54% chance that Louise will successfully hit her goal of $12,000 based on the $10,000-$14,999 goal range.
+  - There is approximatelty a 54% chance that Louise will successfully hit her goal of $12,000 based on the $10,000-$14,999 goal range
   
 - What are some limitations of this dataset?
   - This data set included several Kickstarter projects whose campaigns were still live during my analysis. Since I am unable to determine if a live campaign is a success or failure this poses a limitation within the dataset. 
